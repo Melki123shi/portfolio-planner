@@ -144,8 +144,16 @@ Goal Met = (capital + return) ≥ goal amount
 ---
 
 ## 📷 Screenshots
+# Light Mode
+<img width="1539" height="898" alt="image" src="https://github.com/user-attachments/assets/9dbb279f-a689-4bd9-ad5d-60867c2569fa" />
+<img width="1539" height="898" alt="image" src="https://github.com/user-attachments/assets/471cc6fa-ab1b-47ce-83c5-c18422d528d6" />
+<img width="1539" height="898" alt="image" src="https://github.com/user-attachments/assets/cf696181-91f8-4288-8879-d4060902ab3a" />
 
-> *Add screenshots here to showcase setup, charts, and results pages.*
+
+# Dark Mode
+<img width="1539" height="898" alt="image" src="https://github.com/user-attachments/assets/b55a628f-f901-443b-91b4-6f66259b863e" />
+<img width="1539" height="898" alt="image" src="https://github.com/user-attachments/assets/93166dc1-075a-4808-b164-f159d438af54" />
+<img width="1539" height="898" alt="image" src="https://github.com/user-attachments/assets/293186af-33e6-4e0f-bb40-9f23dc0ac4a0" />
 
 ---
 
