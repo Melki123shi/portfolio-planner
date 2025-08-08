@@ -80,7 +80,7 @@ const InvestorSetupPage = () => {
 
     setIsLoading(false);
     setIsFormValid(false);
-    router.push("/results");
+    router.push("/portfolio");
   }
   const selectedInvestorType = form.watch("investorType");
 
